@@ -24,4 +24,9 @@ Business Impact:
 
   Time Periods - The formatted table does not have months in columns in its structure as is often the case, instead the analyst can select the most frequently viewed time periods, such as: YTD, Last Year, Current Year, Forecast, Quarters and Trailing Months.
 This eliminates the need to download to Excel and manually calculate these values ​​(the report format can be downloaded to Excel). The dynamic report header clearly indicates what we are analyzing, in what periods, and what we are comparing it to.
-https://github.com/MPmocar/Reporting_Solutions/blob/main/P%26L/Forecast.png
+<img width="1467" height="872" alt="Forecast" src="https://github.com/user-attachments/assets/7983f1c6-7326-4bbc-81cf-96bada54e80a" />
+<img width="1500" height="881" alt="Trailing_12_Months" src="https://github.com/user-attachments/assets/911343c4-c225-4b07-80ad-d05268057f21" />
+<img width="1462" height="872" alt="YTD" src="https://github.com/user-attachments/assets/a12480ff-a2e8-4273-bbcc-f406c7c56b27" />
+<img width="1462" height="871" alt="This_Month" src="https://github.com/user-attachments/assets/47098757-459c-4895-b7c9-49c187fba9fb" />
+
+
