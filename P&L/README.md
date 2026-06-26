@@ -4,7 +4,7 @@
   P&L Report – an interactive report designed to democratize profit and loss information for financial analysts. As a Power BI     solution, it serves as a single, official source of data for all members of the organization. The report presents the groups and accounts of the Polish manufacturing company in 2016-2018.
 
 # Tech Stack
-  Powerbi Desktop - main tool for report creation
+  Power BI Desktop - main tool for report creation
   
   Power Query - data transformation
   
