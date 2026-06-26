@@ -12,6 +12,8 @@
   
   Tabular Editor - mass creation of measures and calculation groups
 
+  Power Point - front end layer
+
 # Data Source
   The data comes from the financial statements of a Polish industrial company for the years 2016-2018. I received the data as part of a course assignment during my studies. The company requests that its name not be disclosed. The data was presented by year. To demonstrate the potential possibilities of the report, I manually split it equally across all months and manually set today's date as September 2017 to display both time flags referring to the future and the past. The data was provided to me in a flat Excel file.
 
