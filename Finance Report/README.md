@@ -34,6 +34,10 @@ This eliminates the need to download to Excel and manually calculate these value
 
   Help Page - A place for easy contact with product and data owners, containing links for quick redirection to other pages present in the report maintenance.
 
+<img width="1552" height="927" alt="Balance Sheet" src="https://github.com/user-attachments/assets/968b2ffd-e765-4073-840b-d4ed7795d91c" />
+<img width="1552" height="927" alt="ytdpl" src="https://github.com/user-attachments/assets/6ddb0c06-bf2c-4d47-bbc0-8fb20cce5c6c" />
+<img width="1556" height="927" alt="ForecastPL" src="https://github.com/user-attachments/assets/65be84d1-c0ed-4c17-a2c3-ad074c6e6899" />
+<img width="1652" height="927" alt="Help" src="https://github.com/user-attachments/assets/f3759515-baf9-40b6-8b78-b1fde822a4ce" />
 
 
 
