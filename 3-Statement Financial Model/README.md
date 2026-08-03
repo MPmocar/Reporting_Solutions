@@ -1,4 +1,4 @@
-### Finance Report
+### 3-Statement Financial Model
 
 # Description
   Finance Report – an interactive report designed to democratize finance information for analysts, cfo and other departments. As a Power BI solution, it serves as a single, official source of data for all members of the organization. The report presents the groups and accounts of the Polish manufacturing company in 2016-2018.
@@ -37,6 +37,7 @@ This eliminates the need to download to Excel and manually calculate these value
 <img width="1552" height="927" alt="Balance Sheet" src="https://github.com/user-attachments/assets/968b2ffd-e765-4073-840b-d4ed7795d91c" />
 <img width="1552" height="927" alt="ytdpl" src="https://github.com/user-attachments/assets/6ddb0c06-bf2c-4d47-bbc0-8fb20cce5c6c" />
 <img width="1556" height="927" alt="ForecastPL" src="https://github.com/user-attachments/assets/65be84d1-c0ed-4c17-a2c3-ad074c6e6899" />
+<img width="1553" height="927" alt="image" src="https://github.com/user-attachments/assets/952adaf4-585e-46f6-b812-afe07637bceb" />
 <img width="1652" height="927" alt="Help" src="https://github.com/user-attachments/assets/f3759515-baf9-40b6-8b78-b1fde822a4ce" />
 
 
